@@ -38,12 +38,15 @@ Otkrijte kako zamijena _sitnih_ loših navika u dobre navike može da napravi ve
 
 **Funkcionalnosti:**
 
+Korisnik: 
 * Mogućnost kreiranja i ažuriranja korisničkog računa
 * Mogućnost unosa doručka, ručka, užine i večere
 * Mogućnost unosa dnevnog unosa vode
 * Mogućnost odabira plana ishrane
 * Mogućnost pravljenja podsjetnika
 * Mogućnost pregleda unosa kalorija, proteina, ugljikohidrata i masti dnevno, sedmicno i mjesecno.
+
+Administrator:
 * Mogućnost pregleda, unosa i ažuriranja liste namirnica za odabir
 
 ---
