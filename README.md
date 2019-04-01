@@ -15,7 +15,7 @@ HealthyMe aplikacija će Vam pomoći da pronađete najbolji plan ishrane po Vaš
 HealthyMe sadrži:
 * Planove ishrane i savjete za svaki cilj - skinite višak kilograma i jedite zdravo
 * Brojač kalorija
-* Pratioc dnevne, sedmicne i mjesecne ishrane 
+* Pratilac dnevne, sedmicne i mjesecne ishrane 
 
 Otkrijte kako zamijena _sitnih_ loših navika u dobre navike može da napravi veliku razliku i započnite putovanje do sretnijeg, zdravijeg i ljepšeg izgleda.   
 
@@ -31,7 +31,7 @@ Otkrijte kako zamijena _sitnih_ loših navika u dobre navike može da napravi ve
 * Za svaki obrok korisnik ima uvid u nivo kalorija, kao i proteina, ugljikohidrata i masti koju je unio.
 * Korisnik može da vidi koliko mu je još kalorija preostalo koje smije da unese. 
 * Korisnik ima mogućnost praćenja dnevnog unosa vode (podešeno na 2 litra dnevno ili 8 čaša). 
-* Korisniku stoji na raspolaganju plan ishrane, koji se generiše putem testa. U testu se ispituje da li je korisnik veganac, vegeterijanac ili nista od navedenog. Zatim da li ima posebnu preferencu za dijetu, tipa da li želi visokoproteinsku dijetu ili samo da se hrani zdravo. Nakon toga, korisnik odabere njegovu najveću manu u ishrani (da li previše jede slatko ili jede mnogo brze hrane). Naravno, može se odabrati više mana. Zatim, korisnik odgovara na pitanje da li sam kuha svoju hranu i da li sam kupuje svoju hranu.   
+* Korisniku stoji na raspolaganju plan ishrane, koji se generiše putem testa. U testu se ispituje da li je korisnik veganac, vegeterijanac ili ništa od navedenog. Zatim da li ima posebnu preferencu za dijetu, tipa da li želi visokoproteinsku dijetu ili samo da se hrani zdravo. Na kraju se dobije preporučeni plan ishrane.   
 * Administrator ima mogućnost unosa i ažuriranja liste namirnica za odabir. 
 
 ---
