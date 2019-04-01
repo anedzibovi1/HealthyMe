@@ -39,6 +39,15 @@ Otkrijte kako zamijena _sitnih_ loših navika u dobre navike može da napravi ve
 **Funkcionalnosti:**
 
 * Mogućnost kreiranja i ažuriranja korisničkog računa
-* Mogućnost unosa doručka, ručka i večere
+* Mogućnost unosa doručka, ručka, užine i večere
 * Mogućnost unosa dnevnog unosa vode
-* 
+* Mogućnost odabira plana ishrane
+* Mogućnost pravljenja podsjetnika
+* Mogućnost pregleda unosa kalorija, proteina, ugljikohidrata i masti dnevno, sedmicno i mjesecno.
+* Mogućnost pregleda, unosa i ažuriranja liste namirnica za odabir
+
+---
+
+**Akteri:**
+* Korisnik: osoba koja ima mogućnost kreiranja vlastitog računa, pregleda količine kalorija, proteina, ugljikohidrata i masti, unosa obroka i kreiranja podsjetnika i uvida u svoju dnevnu, sedmicnu i mjesecnu ishranu.
+* Administrator: osoba koja unosi i ažurira podatke, održava bazu podataka i reguliše prava pristupa.
